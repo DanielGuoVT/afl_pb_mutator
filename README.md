@@ -1,2 +1,2 @@
-# afl_proto_mutator
+# afl_pb_mutator
 A protobuf mutator wrapper for AFL.
