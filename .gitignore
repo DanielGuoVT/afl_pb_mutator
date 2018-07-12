@@ -13,3 +13,8 @@ afl-tmim
 as
 .cproject
 .project
+libprotobuf
+libprotobuf-mutator/build
+*.a
+*.o
+*.o-*
